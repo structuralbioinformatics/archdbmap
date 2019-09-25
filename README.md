@@ -7,7 +7,7 @@ queries (being PDB or FASTA inputs).
 Install with:
 
 ```
-pip install https://github.com/structuralbioinformatics/archdbmap/archive/v0.1.zip
+pip install https://github.com/structuralbioinformatics/archdbmap/archive/v0.2.zip
 ```
 
 There are 3 files needed to properly execute this script: the FASTA and FASTA.index version of the ArchDB14 and access to the ArchDB14 SQL.
