@@ -43,7 +43,6 @@ setup(
     keywords='development',
 
     install_requires=[x.strip() for x in open('REQUIREMENTS').readlines()],
-    dependency_links=['https://github.com/structuralbioinformatics/archdbsql/archive/v0.1.zip'],
 
     packages=find_packages(exclude=['docs', 'demo', 'sphinx-docs']),
     include_package_data=True,
