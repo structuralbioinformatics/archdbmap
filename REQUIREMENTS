@@ -1,4 +1,4 @@
 wget
 StrBioInfo
-archdbsql
+archdbsql @ https://github.com/structuralbioinformatics/archdbsql/archive/v0.1.zip#egg=archdbsql-0.1
 pandas
