@@ -47,7 +47,7 @@ setup(
     packages=find_packages(exclude=['docs', 'demo', 'sphinx-docs']),
     include_package_data=True,
     package_data={
-        'archmap': ['REQUIREMENTS'],
+        'archdbmap': ['REQUIREMENTS'],
     },
     entry_points={
         'console_scripts':
